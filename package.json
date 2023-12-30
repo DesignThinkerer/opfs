@@ -6,7 +6,7 @@
     "start": "bun run index.ts"
   },
   "devDependencies": {
-    "@types/bun": "latest",
+    "@types/bun": "^1.0.0",
     "@types/figlet": "^1.5.8"
   },
   "peerDependencies": {
